@@ -1,5 +1,8 @@
 hey, is this actually DOS?
-added from clone
 another line from clone to ghi
-add from orig
 hey, adding from lexis2
+add from orig
+new line
+
+let's check out git diff
+first from f1 branch
